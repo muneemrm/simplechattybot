@@ -1,0 +1,2 @@
+# simplechattybot
+hyperskill/jetbrains tutorial
